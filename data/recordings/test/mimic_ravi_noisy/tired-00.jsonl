@@ -1,0 +1,9 @@
+{"format":"marrow-recording-v1","session_id":"mimic_ravi_noisy-tired-test-00","synthetic":true,"clock":"ms","pointer_units":"screen_fraction","duration_ms":78599,"labels":{"participant":"mimic_ravi_noisy","role":"mimic","condition":"tired","style":"slow_pointer_dictation","split":"test","mimic_variant":"noisy","mimic_target":"ravi"},"generator":"marrow/synth.py","generator_seed":20261108,"license":"CC0-1.0","note":"Synthetic recording. No real person, movement or text was recorded."}
+{"t":0,"type":"pointer","x":0.5,"y":0.5}
+{"t":19106,"type":"text","op":"insert","source":"software","text":"then line check lunch page read pl"}
+{"t":22369,"type":"click","action":"down","button":"left","x":0.5,"y":0.5}
+{"t":23194,"type":"click","action":"up","button":"left","x":0.5,"y":0.5}
+{"t":34808,"type":"text","op":"insert","source":"software","text":"review paragraph move ready pl"}
+{"t":65549,"type":"text","op":"insert","source":"software","text":"open"}
+{"t":68426,"type":"text","op":"delete","source":"software","count":4}
+{"t":78599,"type":"pointer","x":0.5,"y":0.5}

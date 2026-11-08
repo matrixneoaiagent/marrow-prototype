@@ -1,0 +1,22 @@
+{"format":"marrow-recording-v1","session_id":"ravi-tired-train-05","synthetic":true,"clock":"ms","pointer_units":"screen_fraction","duration_ms":74175,"labels":{"participant":"ravi","role":"owner","condition":"tired","style":"slow_pointer_dictation","split":"train","mimic_variant":null,"mimic_target":null},"generator":"marrow/synth.py","generator_seed":20261108,"license":"CC0-1.0","note":"Synthetic recording. No real person, movement or text was recorded."}
+{"t":0,"type":"pointer","x":0.5,"y":0.5}
+{"t":50,"type":"text","op":"insert","source":"software","text":"enter review re"}
+{"t":12219,"type":"text","op":"insert","source":"software","text":"small whe"}
+{"t":19902,"type":"pointer","x":0.5,"y":0.5}
+{"t":19960,"type":"pointer","x":0.55501,"y":0.49352}
+{"t":20018,"type":"pointer","x":0.50081,"y":0.48115}
+{"t":20076,"type":"pointer","x":0.44199,"y":0.53031}
+{"t":20134,"type":"pointer","x":0.57475,"y":0.46401}
+{"t":20192,"type":"pointer","x":0.47534,"y":0.49469}
+{"t":20250,"type":"pointer","x":0.49121,"y":0.44332}
+{"t":20308,"type":"pointer","x":0.60223,"y":0.41658}
+{"t":20367,"type":"pointer","x":0.55341,"y":0.42268}
+{"t":20425,"type":"pointer","x":0.46799,"y":0.48611}
+{"t":20483,"type":"pointer","x":0.62483,"y":0.49495}
+{"t":20541,"type":"pointer","x":0.54114,"y":0.51993}
+{"t":20571,"type":"click","action":"down","button":"left","x":0.54114,"y":0.51993}
+{"t":21317,"type":"click","action":"up","button":"left","x":0.54114,"y":0.51993}
+{"t":22721,"type":"text","op":"insert","source":"software","text":"what save when quiet then before whe"}
+{"t":33825,"type":"text","op":"insert","source":"software","text":"when pleas"}
+{"t":71757,"type":"text","op":"insert","source":"software","text":"clear right"}
+{"t":74175,"type":"pointer","x":0.54114,"y":0.51993}

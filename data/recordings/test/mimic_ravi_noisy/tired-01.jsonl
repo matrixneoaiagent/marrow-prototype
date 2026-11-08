@@ -1,0 +1,12 @@
+{"format":"marrow-recording-v1","session_id":"mimic_ravi_noisy-tired-test-01","synthetic":true,"clock":"ms","pointer_units":"screen_fraction","duration_ms":86282,"labels":{"participant":"mimic_ravi_noisy","role":"mimic","condition":"tired","style":"slow_pointer_dictation","split":"test","mimic_variant":"noisy","mimic_target":"ravi"},"generator":"marrow/synth.py","generator_seed":20261108,"license":"CC0-1.0","note":"Synthetic recording. No real person, movement or text was recorded."}
+{"t":0,"type":"pointer","x":0.5,"y":0.5}
+{"t":12050,"type":"text","op":"insert","source":"software","text":"send cursor paragraph short press"}
+{"t":16667,"type":"click","action":"down","button":"left","x":0.5,"y":0.5}
+{"t":18637,"type":"click","action":"up","button":"left","x":0.5,"y":0.5}
+{"t":30423,"type":"text","op":"insert","source":"software","text":"what this smal"}
+{"t":37733,"type":"click","action":"down","button":"left","x":0.5,"y":0.5}
+{"t":39703,"type":"click","action":"up","button":"left","x":0.5,"y":0.5}
+{"t":64560,"type":"text","op":"insert","source":"software","text":"page left paragraph cop"}
+{"t":72956,"type":"click","action":"down","button":"left","x":0.5,"y":0.5}
+{"t":73540,"type":"click","action":"up","button":"left","x":0.5,"y":0.5}
+{"t":86282,"type":"pointer","x":0.5,"y":0.5}

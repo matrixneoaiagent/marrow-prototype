@@ -1,0 +1,71 @@
+{"format":"marrow-recording-v1","session_id":"mimic_ravi_noisy-rested-test-01","synthetic":true,"clock":"ms","pointer_units":"screen_fraction","duration_ms":62386,"labels":{"participant":"mimic_ravi_noisy","role":"mimic","condition":"rested","style":"slow_pointer_dictation","split":"test","mimic_variant":"noisy","mimic_target":"ravi"},"generator":"marrow/synth.py","generator_seed":20261108,"license":"CC0-1.0","note":"Synthetic recording. No real person, movement or text was recorded."}
+{"t":0,"type":"pointer","x":0.5,"y":0.5}
+{"t":522,"type":"text","op":"insert","source":"software","text":"page move changed enter then right"}
+{"t":3524,"type":"pointer","x":0.5,"y":0.5}
+{"t":3580,"type":"pointer","x":0.44248,"y":0.48352}
+{"t":3635,"type":"pointer","x":0.40698,"y":0.44795}
+{"t":3690,"type":"pointer","x":0.4706,"y":0.37827}
+{"t":3746,"type":"pointer","x":0.50735,"y":0.59387}
+{"t":3801,"type":"pointer","x":0.50773,"y":0.58179}
+{"t":3857,"type":"pointer","x":0.43124,"y":0.69618}
+{"t":3912,"type":"pointer","x":0.52584,"y":0.56757}
+{"t":3967,"type":"pointer","x":0.42791,"y":0.7015}
+{"t":4023,"type":"pointer","x":0.63755,"y":0.51366}
+{"t":4078,"type":"pointer","x":0.55072,"y":0.51166}
+{"t":4133,"type":"pointer","x":0.53432,"y":0.57645}
+{"t":4163,"type":"click","action":"down","button":"left","x":0.53432,"y":0.57645}
+{"t":4634,"type":"click","action":"up","button":"left","x":0.53432,"y":0.57645}
+{"t":21674,"type":"text","op":"insert","source":"software","text":"before w"}
+{"t":26361,"type":"click","action":"down","button":"left","x":0.53432,"y":0.57645}
+{"t":27543,"type":"click","action":"up","button":"left","x":0.53432,"y":0.57645}
+{"t":31783,"type":"text","op":"insert","source":"software","text":"review ready clear please tell quiet line page this ri"}
+{"t":36142,"type":"text","op":"insert","source":"software","text":"lunch last sm"}
+{"t":41985,"type":"pointer","x":0.53432,"y":0.57645}
+{"t":42041,"type":"pointer","x":0.52847,"y":0.52906}
+{"t":42097,"type":"pointer","x":0.60106,"y":0.70304}
+{"t":42153,"type":"pointer","x":0.56151,"y":0.69087}
+{"t":42209,"type":"pointer","x":0.5073,"y":0.45227}
+{"t":42266,"type":"pointer","x":0.57226,"y":0.52888}
+{"t":42322,"type":"pointer","x":0.64842,"y":0.4053}
+{"t":42378,"type":"pointer","x":0.50515,"y":0.42371}
+{"t":42434,"type":"pointer","x":0.48483,"y":0.48634}
+{"t":42490,"type":"pointer","x":0.39372,"y":0.44617}
+{"t":42546,"type":"pointer","x":0.53791,"y":0.55877}
+{"t":42602,"type":"pointer","x":0.42248,"y":0.31096}
+{"t":42658,"type":"pointer","x":0.48889,"y":0.45533}
+{"t":42714,"type":"pointer","x":0.61631,"y":0.47077}
+{"t":42770,"type":"pointer","x":0.41339,"y":0.39702}
+{"t":42827,"type":"pointer","x":0.43494,"y":0.32973}
+{"t":42883,"type":"pointer","x":0.47293,"y":0.36609}
+{"t":42939,"type":"pointer","x":0.34261,"y":0.28451}
+{"t":42995,"type":"pointer","x":0.48635,"y":0.21789}
+{"t":43051,"type":"pointer","x":0.3567,"y":0.23686}
+{"t":43107,"type":"pointer","x":0.4638,"y":0.36761}
+{"t":43163,"type":"pointer","x":0.50373,"y":0.363}
+{"t":43219,"type":"pointer","x":0.40464,"y":0.4058}
+{"t":43275,"type":"pointer","x":0.31653,"y":0.1946}
+{"t":43331,"type":"pointer","x":0.49003,"y":0.37267}
+{"t":43388,"type":"pointer","x":0.35605,"y":0.28449}
+{"t":43444,"type":"pointer","x":0.19701,"y":0.33793}
+{"t":43500,"type":"pointer","x":0.44949,"y":0.28426}
+{"t":43556,"type":"pointer","x":0.53724,"y":0.45801}
+{"t":43612,"type":"pointer","x":0.58274,"y":0.19863}
+{"t":43668,"type":"pointer","x":0.67313,"y":0.22685}
+{"t":43724,"type":"pointer","x":0.25057,"y":0.07804}
+{"t":43780,"type":"pointer","x":0.18324,"y":0.21386}
+{"t":43836,"type":"pointer","x":0.27781,"y":0.25249}
+{"t":43892,"type":"pointer","x":0.56985,"y":0.39662}
+{"t":43949,"type":"pointer","x":0.30707,"y":0.03433}
+{"t":44005,"type":"pointer","x":0.50592,"y":0.25651}
+{"t":44061,"type":"pointer","x":0.47238,"y":0.22335}
+{"t":44117,"type":"pointer","x":0.50643,"y":0.3272}
+{"t":44173,"type":"pointer","x":0.17848,"y":0.19643}
+{"t":44229,"type":"pointer","x":0.38874,"y":0.06226}
+{"t":44285,"type":"pointer","x":0.39817,"y":0.12687}
+{"t":44315,"type":"click","action":"down","button":"left","x":0.39817,"y":0.12687}
+{"t":44814,"type":"click","action":"up","button":"left","x":0.39817,"y":0.12687}
+{"t":45622,"type":"text","op":"insert","source":"software","text":"righ"}
+{"t":48232,"type":"text","op":"insert","source":"software","text":"copy noon when noon wha"}
+{"t":49449,"type":"text","op":"insert","source":"software","text":"dra"}
+{"t":50545,"type":"text","op":"insert","source":"software","text":"then copy right before c"}
+{"t":62386,"type":"pointer","x":0.39817,"y":0.12687}

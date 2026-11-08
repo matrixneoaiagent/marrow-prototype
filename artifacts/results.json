@@ -1,0 +1,595 @@
+{
+  "format": "marrow-results-v1",
+  "listing": "1f916 listing-65",
+  "synthetic": true,
+  "threshold": 0.459481300650751,
+  "selection": {
+    "threshold": 0.459481300650751,
+    "target_far": 0.05,
+    "validation_far": 0.015625,
+    "validation_frr": 0.0,
+    "validation_tpr": 1.0,
+    "feasible": true,
+    "rule": "lowest error trade-off: maximise TPR subject to validation FAR <= 0.05; ties go to the higher threshold",
+    "candidates": 386
+  },
+  "swap_selections": {
+    "alice": {
+      "threshold": 0.6097728539248611,
+      "target_far": 0.05,
+      "validation_far": 0.0,
+      "validation_frr": 0.0,
+      "validation_tpr": 1.0,
+      "feasible": true,
+      "rule": "lowest error trade-off: maximise TPR subject to validation FAR <= 0.05; ties go to the higher threshold",
+      "candidates": 130
+    },
+    "nia": {
+      "threshold": 0.3134058726308085,
+      "target_far": 0.05,
+      "validation_far": 0.0,
+      "validation_frr": 0.0,
+      "validation_tpr": 1.0,
+      "feasible": true,
+      "rule": "lowest error trade-off: maximise TPR subject to validation FAR <= 0.05; ties go to the higher threshold",
+      "candidates": 130
+    },
+    "ravi": {
+      "threshold": 0.47839570309065493,
+      "target_far": 0.05,
+      "validation_far": 0.03571428571428571,
+      "validation_frr": 0.125,
+      "validation_tpr": 0.875,
+      "feasible": true,
+      "rule": "lowest error trade-off: maximise TPR subject to validation FAR <= 0.05; ties go to the higher threshold",
+      "candidates": 120
+    }
+  },
+  "swap_thresholds": {
+    "alice": 0.7097728539248611,
+    "nia": 0.4134058726308085,
+    "ravi": 0.5783957030906549
+  },
+  "swap_safety_margin": 0.1,
+  "checks": {
+    "checks": {
+      "1_open_source_one_command": true,
+      "2_fake_data_two_styles_with_roles": true,
+      "3_swap_test_rejects_owner": true,
+      "4_threshold_fixed_and_rates_reported": true,
+      "5_plain_format_offline_train_test": true
+    },
+    "targets": {
+      "far_le_5_percent": true,
+      "frr_le_20_percent": true,
+      "mimic_far_le_15_percent": true
+    },
+    "styles": [
+      "pointer_keyboard",
+      "slow_pointer_dictation",
+      "switch_onscreen"
+    ],
+    "style_roles": {
+      "owner_tired": {
+        "pointer_keyboard": true,
+        "slow_pointer_dictation": true,
+        "switch_onscreen": true
+      },
+      "stranger": {
+        "pointer_keyboard": true,
+        "slow_pointer_dictation": true,
+        "switch_onscreen": true
+      },
+      "mimic": {
+        "pointer_keyboard": true,
+        "slow_pointer_dictation": true,
+        "switch_onscreen": true
+      }
+    },
+    "all_conditions_pass": true,
+    "targets_pass": true,
+    "overall_target_pass": true,
+    "offline_problems": [],
+    "threshold_lock_sha256": "2480588a44edf0b2f76f9710b251a90864ec610b223d71589713d03d58ddea23"
+  },
+  "evaluation": {
+    "rows": [
+      {
+        "owner": "alice",
+        "style": "pointer_keyboard",
+        "alternate": "bruno",
+        "owner_test": {
+          "rested": {
+            "n": 6,
+            "accepted": 6,
+            "rejected": 0,
+            "scores": [
+              0.8941625998132915,
+              0.9304456809318011,
+              0.9213565669576259,
+              0.8363790972703007,
+              0.8493623253836349,
+              0.9358383601853643
+            ]
+          },
+          "tired": {
+            "n": 6,
+            "accepted": 5,
+            "rejected": 1,
+            "scores": [
+              0.7515640349149946,
+              0.7863124729422242,
+              0.7728573511373525,
+              0.7926720252612264,
+              0.08017893546829477,
+              0.7975282344994272
+            ]
+          }
+        },
+        "stranger": {
+          "n": 24,
+          "accepted": 0,
+          "scores": [
+            0.22310484527073665,
+            8.596069227214623e-05,
+            0.35559965878607863,
+            0.188893158243641,
+            8.538362928019245e-06,
+            0.035275660667434414,
+            2.0485932098073223e-05,
+            3.064393130997436e-07,
+            3.2760547216573742e-09,
+            1.197546200673961e-05,
+            0.0019031721313361452,
+            4.032441126591731e-12,
+            1.2867189804013475e-08,
+            2.20577443563115e-05,
+            0.00012981608359853355,
+            0.00771196511042307,
+            2.115896286207163e-05,
+            4.742187238110394e-08,
+            3.0713897210170275e-15,
+            1.4088535782771903e-12,
+            2.124061921506818e-05,
+            1.8274139653271614e-13,
+            5.5305478229090665e-17,
+            9.111172273467635e-17
+          ],
+          "rested": {
+            "n": 12,
+            "accepted": 0
+          },
+          "tired": {
+            "n": 12,
+            "accepted": 0
+          }
+        },
+        "mimic": {
+          "n": 16,
+          "accepted": 1,
+          "scores": [
+            2.5911699843861044e-08,
+            0.0007174759560803384,
+            0.00026722253258591505,
+            0.009775414370472553,
+            3.8152406347897086e-05,
+            3.491795348253238e-07,
+            6.476882120293863e-07,
+            1.3450653840916353e-05,
+            0.03133515575802768,
+            0.5905577798406981,
+            0.05070610100433297,
+            0.012745033458708241,
+            0.018006436013202922,
+            0.22426508570228235,
+            0.30000146466128497,
+            0.31310047187105894
+          ],
+          "variants": {
+            "regular": {
+              "n": 8,
+              "accepted": 1
+            },
+            "noisy": {
+              "n": 8,
+              "accepted": 0
+            }
+          }
+        },
+        "cross_style": {
+          "n": 48,
+          "accepted": 0,
+          "note": "other input styles, reported separately; not part of the headline FAR"
+        },
+        "swap": {
+          "n": 12,
+          "accepted": 0,
+          "threshold": 0.7097728539248611,
+          "raw_threshold": 0.6097728539248611,
+          "raw_accepted": 1,
+          "scores": [
+            0.4268960495466474,
+            0.5377990687401337,
+            0.27004680547012666,
+            0.5419589457386927,
+            0.6156860261420877,
+            0.5052979891879397,
+            0.1673029150506319,
+            0.27485020697555573,
+            0.12413072146276273,
+            0.1326032315926992,
+            0.03777769314406976,
+            0.314540536542383
+          ]
+        }
+      },
+      {
+        "owner": "nia",
+        "style": "switch_onscreen",
+        "alternate": "oren",
+        "owner_test": {
+          "rested": {
+            "n": 6,
+            "accepted": 6,
+            "rejected": 0,
+            "scores": [
+              0.8809024204008579,
+              0.9084661322651125,
+              0.7809983051295479,
+              0.6595358812947777,
+              0.620381602542999,
+              0.7192614120352634
+            ]
+          },
+          "tired": {
+            "n": 6,
+            "accepted": 6,
+            "rejected": 0,
+            "scores": [
+              0.9049365744334407,
+              0.8567940865266731,
+              0.8924778572780677,
+              0.9069259056379689,
+              0.9401827763456215,
+              0.935477456350035
+            ]
+          }
+        },
+        "stranger": {
+          "n": 24,
+          "accepted": 0,
+          "scores": [
+            0.03887482210216966,
+            0.041407545243411774,
+            0.0011471131609988442,
+            0.00012752945048163776,
+            1.3469675132804174e-05,
+            0.024440101782340448,
+            0.16773527331423316,
+            0.08024936680026191,
+            0.03291725293089728,
+            2.6793200125582583e-06,
+            4.911993938858948e-06,
+            4.2998639659913895e-05,
+            0.0006975340045346182,
+            0.00035540557133319266,
+            0.08494828628916484,
+            0.058938438128525526,
+            0.007449493967039317,
+            0.04719815175820609,
+            0.0007140916616145087,
+            0.008470454474988114,
+            8.447111438178248e-12,
+            2.0607184294187935e-10,
+            1.481928445094601e-06,
+            1.9677128470620536e-06
+          ],
+          "rested": {
+            "n": 12,
+            "accepted": 0
+          },
+          "tired": {
+            "n": 12,
+            "accepted": 0
+          }
+        },
+        "mimic": {
+          "n": 16,
+          "accepted": 1,
+          "scores": [
+            0.2887682654832897,
+            7.446013472248173e-06,
+            0.9644227381885311,
+            0.0904378818413696,
+            0.0025820656747771683,
+            0.006207359489095072,
+            0.2801481556771039,
+            0.1408612490002115,
+            8.560151883911933e-17,
+            3.349241504356247e-17,
+            1.3474055644081857e-16,
+            4.949651834405258e-16,
+            3.5920533085577255e-15,
+            5.479708381635561e-15,
+            1.1377938819742513e-16,
+            8.909479995161736e-16
+          ],
+          "variants": {
+            "regular": {
+              "n": 8,
+              "accepted": 0
+            },
+            "noisy": {
+              "n": 8,
+              "accepted": 1
+            }
+          }
+        },
+        "cross_style": {
+          "n": 48,
+          "accepted": 0,
+          "note": "other input styles, reported separately; not part of the headline FAR"
+        },
+        "swap": {
+          "n": 12,
+          "accepted": 0,
+          "threshold": 0.4134058726308085,
+          "raw_threshold": 0.3134058726308085,
+          "raw_accepted": 0,
+          "scores": [
+            0.07896022031255452,
+            0.05613992383783652,
+            0.20867682190400388,
+            0.27547134759824027,
+            0.17093185893408697,
+            0.146232696726961,
+            0.018289040519271087,
+            0.02735339166955326,
+            0.05270583569788933,
+            0.0665110583604319,
+            0.011974736256802575,
+            0.01107227921207514
+          ]
+        }
+      },
+      {
+        "owner": "ravi",
+        "style": "slow_pointer_dictation",
+        "alternate": "devi",
+        "owner_test": {
+          "rested": {
+            "n": 6,
+            "accepted": 6,
+            "rejected": 0,
+            "scores": [
+              0.8423609431789396,
+              0.885850869291558,
+              0.9639106780083457,
+              0.9487824365675447,
+              0.8120299420179522,
+              0.8081382191336481
+            ]
+          },
+          "tired": {
+            "n": 6,
+            "accepted": 5,
+            "rejected": 1,
+            "scores": [
+              0.7773700449733669,
+              0.4107803721114741,
+              0.9833502194079801,
+              0.9335391183338545,
+              0.9857264612626745,
+              0.8521105555570243
+            ]
+          }
+        },
+        "stranger": {
+          "n": 24,
+          "accepted": 2,
+          "scores": [
+            0.06082202197314356,
+            0.3800691176964664,
+            0.07280387832477431,
+            0.12231930320945439,
+            0.08812926601667284,
+            0.04379370907700306,
+            0.47868865073736705,
+            0.038078936013055474,
+            0.496567434569374,
+            0.09701349917168539,
+            0.18966497642785368,
+            0.2749448877035452,
+            0.00643131578679153,
+            0.030673977223183137,
+            0.0012344521934278862,
+            0.03383309921960131,
+            0.029565709592130215,
+            0.017301233843966996,
+            0.06770041477610368,
+            0.03635538056140512,
+            0.1864163270176138,
+            0.07793124752313733,
+            0.08903178495343557,
+            0.036958423266632054
+          ],
+          "rested": {
+            "n": 12,
+            "accepted": 0
+          },
+          "tired": {
+            "n": 12,
+            "accepted": 2
+          }
+        },
+        "mimic": {
+          "n": 16,
+          "accepted": 1,
+          "scores": [
+            0.007081324989290069,
+            0.0030716140076462606,
+            0.022209761360156875,
+            0.034630184669311954,
+            0.9235100062935662,
+            0.41049343791064163,
+            0.00577770542320064,
+            0.0014475996478245262,
+            2.6427985188568494e-14,
+            2.1411438823259446e-15,
+            2.5338535507698416e-15,
+            1.0596551252524014e-15,
+            5.955955582062782e-12,
+            9.891982819523235e-13,
+            1.2137552919925135e-13,
+            2.7589866503711862e-11
+          ],
+          "variants": {
+            "regular": {
+              "n": 8,
+              "accepted": 0
+            },
+            "noisy": {
+              "n": 8,
+              "accepted": 1
+            }
+          }
+        },
+        "cross_style": {
+          "n": 48,
+          "accepted": 0,
+          "note": "other input styles, reported separately; not part of the headline FAR"
+        },
+        "swap": {
+          "n": 12,
+          "accepted": 0,
+          "threshold": 0.5783957030906549,
+          "raw_threshold": 0.47839570309065493,
+          "raw_accepted": 0,
+          "scores": [
+            0.07107398901692812,
+            0.07362063209635468,
+            0.008852311984974942,
+            0.004609774288815457,
+            0.030468636199122847,
+            0.05985136131535021,
+            2.944528053256758e-05,
+            4.9287640809147376e-08,
+            2.1607212697282518e-05,
+            5.582680279782505e-05,
+            7.640543819716269e-06,
+            0.00036129621643759397
+          ]
+        }
+      }
+    ],
+    "overall": {
+      "owner_n": 36,
+      "owner_rejected": 2,
+      "frr": 0.05555555555555555,
+      "frr_ci": [
+        0.015369663767066846,
+        0.18144974107611211
+      ],
+      "stranger_n": 72,
+      "stranger_accepted": 2,
+      "stranger_far": 0.027777777777777776,
+      "stranger_far_ci": [
+        0.007650861466140461,
+        0.09574358168906721
+      ],
+      "mimic_n": 48,
+      "mimic_accepted": 3,
+      "mimic_far": 0.0625,
+      "mimic_far_ci": [
+        0.021482843131227225,
+        0.1683569766274222
+      ],
+      "impostor_n": 120,
+      "impostor_accepted": 5,
+      "far": 0.041666666666666664,
+      "far_ci": [
+        0.01792645250583781,
+        0.0938421292954309
+      ],
+      "cross_style_n": 144,
+      "cross_style_accepted": 0,
+      "cross_style_far": 0.0,
+      "auc": 0.9793981481481482,
+      "swap_n": 36,
+      "swap_accepted": 0,
+      "swap_accept_rate": 0.0,
+      "swap_ci": [
+        0.0,
+        0.09642183044857634
+      ],
+      "swap_raw_accepted": 1,
+      "swap_raw_accept_rate": 0.027777777777777776,
+      "threshold": 0.459481300650751
+    },
+    "per_style": {
+      "pointer_keyboard": {
+        "owner_n": 12,
+        "owner_rejected": 1,
+        "frr": 0.08333333333333333,
+        "frr_rested": 0.0,
+        "frr_tired": 0.16666666666666666,
+        "stranger_n": 24,
+        "stranger_accepted": 0,
+        "stranger_far": 0.0,
+        "mimic_n": 16,
+        "mimic_accepted": 1,
+        "mimic_far": 0.0625,
+        "swap_n": 12,
+        "swap_accepted": 0,
+        "swap_accept_rate": 0.0
+      },
+      "slow_pointer_dictation": {
+        "owner_n": 12,
+        "owner_rejected": 1,
+        "frr": 0.08333333333333333,
+        "frr_rested": 0.0,
+        "frr_tired": 0.16666666666666666,
+        "stranger_n": 24,
+        "stranger_accepted": 2,
+        "stranger_far": 0.08333333333333333,
+        "mimic_n": 16,
+        "mimic_accepted": 1,
+        "mimic_far": 0.0625,
+        "swap_n": 12,
+        "swap_accepted": 0,
+        "swap_accept_rate": 0.0
+      },
+      "switch_onscreen": {
+        "owner_n": 12,
+        "owner_rejected": 0,
+        "frr": 0.0,
+        "frr_rested": 0.0,
+        "frr_tired": 0.0,
+        "stranger_n": 24,
+        "stranger_accepted": 0,
+        "stranger_far": 0.0,
+        "mimic_n": 16,
+        "mimic_accepted": 1,
+        "mimic_far": 0.0625,
+        "swap_n": 12,
+        "swap_accepted": 0,
+        "swap_accept_rate": 0.0
+      }
+    }
+  },
+  "offline": true,
+  "offline_problems": [],
+  "elapsed_seconds": 49.825,
+  "code_sha256": {
+    "main.py": "e6e5bc8d2e61b85e6dd130c895c70dcba587b74ccaeface2389fb4491b54a303",
+    "run.sh": "2458dbacc2b715fa217300dbef8c8f442fef474f3e0272cb110287bba8e29947",
+    "marrow/__init__.py": "7e81f9cba45950af967a513140bf433f13ea41d0d7ebffb37525d5c53c77ec53",
+    "marrow/format.py": "d56185596e99d1bf01e4f6d4ddc56cbfad8b11fb3a8dd615560f1070eea0bc22",
+    "marrow/features.py": "de193e713b087a352bf850cf4ba2e9434c7eb99cd945f2aa15ab7c88ce561984",
+    "marrow/synth.py": "4b85b5c8878dd44067ae7bc23c446824f3bba0a3e92b9d28c91c90cc4bb42f41",
+    "marrow/model.py": "43e4e06706d108408fe9eaa6ee8979fa629866b012955d83fe32ec63761085b2",
+    "marrow/evaluate.py": "cd81f553cc4c2d436d2ae01d4541210095c68ec96ac5fc2199c721e39147b0cd",
+    "tools/train_test.py": "6c5df008c815f74a6a293017c48e7c420cf2ac197e3bc6061b6c935417f8201f"
+  },
+  "threshold_lock_sha256": "2480588a44edf0b2f76f9710b251a90864ec610b223d71589713d03d58ddea23"
+}

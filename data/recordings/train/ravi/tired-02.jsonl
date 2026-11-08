@@ -1,0 +1,41 @@
+{"format":"marrow-recording-v1","session_id":"ravi-tired-train-02","synthetic":true,"clock":"ms","pointer_units":"screen_fraction","duration_ms":85284,"labels":{"participant":"ravi","role":"owner","condition":"tired","style":"slow_pointer_dictation","split":"train","mimic_variant":null,"mimic_target":null},"generator":"marrow/synth.py","generator_seed":20261108,"license":"CC0-1.0","note":"Synthetic recording. No real person, movement or text was recorded."}
+{"t":0,"type":"pointer","x":0.5,"y":0.5}
+{"t":7846,"type":"text","op":"insert","source":"software","text":"review r"}
+{"t":9615,"type":"text","op":"delete","source":"software","count":8}
+{"t":20751,"type":"text","op":"insert","source":"software","text":"small line r"}
+{"t":31129,"type":"text","op":"insert","source":"software","text":"paragraph what ready chang"}
+{"t":45024,"type":"text","op":"insert","source":"software","text":"ready"}
+{"t":50481,"type":"click","action":"down","button":"left","x":0.5,"y":0.5}
+{"t":50804,"type":"click","action":"up","button":"left","x":0.5,"y":0.5}
+{"t":62854,"type":"text","op":"insert","source":"software","text":"press"}
+{"t":63975,"type":"text","op":"delete","source":"software","count":2}
+{"t":63975,"type":"text","op":"delete","source":"software","count":1}
+{"t":66084,"type":"pointer","x":0.5,"y":0.5}
+{"t":66140,"type":"pointer","x":0.46652,"y":0.47801}
+{"t":66196,"type":"pointer","x":0.47916,"y":0.49469}
+{"t":66252,"type":"pointer","x":0.4419,"y":0.52216}
+{"t":66308,"type":"pointer","x":0.47111,"y":0.50394}
+{"t":66364,"type":"pointer","x":0.52602,"y":0.48744}
+{"t":66420,"type":"pointer","x":0.54786,"y":0.49614}
+{"t":66475,"type":"pointer","x":0.47364,"y":0.51138}
+{"t":66531,"type":"pointer","x":0.48742,"y":0.46866}
+{"t":66587,"type":"pointer","x":0.52986,"y":0.59452}
+{"t":66643,"type":"pointer","x":0.57051,"y":0.45681}
+{"t":66699,"type":"pointer","x":0.54031,"y":0.54532}
+{"t":66755,"type":"pointer","x":0.53973,"y":0.53173}
+{"t":66811,"type":"pointer","x":0.49553,"y":0.54964}
+{"t":66867,"type":"pointer","x":0.46267,"y":0.53583}
+{"t":66923,"type":"pointer","x":0.49359,"y":0.4596}
+{"t":66979,"type":"pointer","x":0.55175,"y":0.55733}
+{"t":67035,"type":"pointer","x":0.47059,"y":0.63671}
+{"t":67091,"type":"pointer","x":0.40206,"y":0.50124}
+{"t":67146,"type":"pointer","x":0.48019,"y":0.60704}
+{"t":67202,"type":"pointer","x":0.51687,"y":0.59465}
+{"t":67258,"type":"pointer","x":0.53595,"y":0.55329}
+{"t":67314,"type":"pointer","x":0.59892,"y":0.56134}
+{"t":67370,"type":"pointer","x":0.54164,"y":0.574}
+{"t":67400,"type":"click","action":"down","button":"left","x":0.54164,"y":0.574}
+{"t":68065,"type":"click","action":"up","button":"left","x":0.54164,"y":0.574}
+{"t":68420,"type":"text","op":"insert","source":"software","text":"page after send this"}
+{"t":77503,"type":"text","op":"insert","source":"software","text":"read tel"}
+{"t":85284,"type":"pointer","x":0.54164,"y":0.574}

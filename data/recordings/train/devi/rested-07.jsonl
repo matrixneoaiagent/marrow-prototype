@@ -1,0 +1,81 @@
+{"format":"marrow-recording-v1","session_id":"devi-rested-train-07","synthetic":true,"clock":"ms","pointer_units":"screen_fraction","duration_ms":69107,"labels":{"participant":"devi","role":"alternate","condition":"rested","style":"slow_pointer_dictation","split":"train","mimic_variant":null,"mimic_target":null},"generator":"marrow/synth.py","generator_seed":20261108,"license":"CC0-1.0","note":"Synthetic recording. No real person, movement or text was recorded."}
+{"t":0,"type":"pointer","x":0.5,"y":0.5}
+{"t":50,"type":"text","op":"insert","source":"software","text":"parag"}
+{"t":5043,"type":"text","op":"insert","source":"software","text":"enter"}
+{"t":9316,"type":"click","action":"down","button":"left","x":0.5,"y":0.5}
+{"t":9633,"type":"click","action":"up","button":"left","x":0.5,"y":0.5}
+{"t":10664,"type":"text","op":"insert","source":"software","text":"parag"}
+{"t":13630,"type":"text","op":"insert","source":"software","text":"what note pr"}
+{"t":19021,"type":"click","action":"down","button":"left","x":0.5,"y":0.5}
+{"t":19276,"type":"click","action":"up","button":"left","x":0.5,"y":0.5}
+{"t":20722,"type":"text","op":"insert","source":"software","text":"please wi"}
+{"t":25795,"type":"text","op":"insert","source":"software","text":"copy ch"}
+{"t":28128,"type":"text","op":"delete","source":"software","count":1}
+{"t":35325,"type":"pointer","x":0.5,"y":0.5}
+{"t":35381,"type":"pointer","x":0.46453,"y":0.49025}
+{"t":35437,"type":"pointer","x":0.50476,"y":0.49155}
+{"t":35493,"type":"pointer","x":0.50296,"y":0.4751}
+{"t":35549,"type":"pointer","x":0.50591,"y":0.52352}
+{"t":35605,"type":"pointer","x":0.48789,"y":0.52563}
+{"t":35661,"type":"pointer","x":0.47542,"y":0.5261}
+{"t":35717,"type":"pointer","x":0.47855,"y":0.55957}
+{"t":35774,"type":"pointer","x":0.48359,"y":0.55001}
+{"t":35830,"type":"pointer","x":0.51654,"y":0.56013}
+{"t":35886,"type":"pointer","x":0.47632,"y":0.5598}
+{"t":35942,"type":"pointer","x":0.51019,"y":0.58861}
+{"t":35998,"type":"pointer","x":0.47125,"y":0.58377}
+{"t":36054,"type":"pointer","x":0.47238,"y":0.61097}
+{"t":36110,"type":"pointer","x":0.46335,"y":0.63347}
+{"t":36166,"type":"pointer","x":0.44994,"y":0.61627}
+{"t":36222,"type":"pointer","x":0.48841,"y":0.62053}
+{"t":36278,"type":"pointer","x":0.47007,"y":0.71275}
+{"t":36334,"type":"pointer","x":0.45736,"y":0.64238}
+{"t":36391,"type":"pointer","x":0.49871,"y":0.67437}
+{"t":36447,"type":"pointer","x":0.50227,"y":0.71122}
+{"t":36503,"type":"pointer","x":0.47586,"y":0.74657}
+{"t":36559,"type":"pointer","x":0.42944,"y":0.6784}
+{"t":36615,"type":"pointer","x":0.48099,"y":0.72883}
+{"t":36671,"type":"pointer","x":0.45841,"y":0.67533}
+{"t":36727,"type":"pointer","x":0.43556,"y":0.71203}
+{"t":36783,"type":"pointer","x":0.44503,"y":0.7251}
+{"t":36839,"type":"pointer","x":0.47324,"y":0.74522}
+{"t":36895,"type":"pointer","x":0.4598,"y":0.74142}
+{"t":36952,"type":"pointer","x":0.46643,"y":0.83078}
+{"t":37008,"type":"pointer","x":0.46321,"y":0.77785}
+{"t":37064,"type":"pointer","x":0.46839,"y":0.76668}
+{"t":37120,"type":"pointer","x":0.49031,"y":0.79863}
+{"t":37176,"type":"pointer","x":0.47529,"y":0.83071}
+{"t":37232,"type":"pointer","x":0.44146,"y":0.82806}
+{"t":37288,"type":"pointer","x":0.44482,"y":0.82773}
+{"t":37344,"type":"pointer","x":0.44201,"y":0.8363}
+{"t":37400,"type":"pointer","x":0.46493,"y":0.8957}
+{"t":37456,"type":"pointer","x":0.44413,"y":0.86847}
+{"t":37513,"type":"pointer","x":0.44703,"y":0.87969}
+{"t":37569,"type":"pointer","x":0.43711,"y":0.89529}
+{"t":37625,"type":"pointer","x":0.44372,"y":0.92702}
+{"t":37687,"type":"pointer","x":0.45544,"y":0.91433}
+{"t":37750,"type":"pointer","x":0.46161,"y":0.90371}
+{"t":37812,"type":"pointer","x":0.44191,"y":0.87975}
+{"t":37875,"type":"pointer","x":0.4459,"y":0.88705}
+{"t":37905,"type":"click","action":"down","button":"left","x":0.4459,"y":0.88705}
+{"t":38132,"type":"click","action":"up","button":"left","x":0.4459,"y":0.88705}
+{"t":42869,"type":"text","op":"insert","source":"software","text":"note n"}
+{"t":47211,"type":"click","action":"down","button":"left","x":0.4459,"y":0.88705}
+{"t":47484,"type":"click","action":"up","button":"left","x":0.4459,"y":0.88705}
+{"t":52768,"type":"text","op":"insert","source":"software","text":"note pl"}
+{"t":56519,"type":"pointer","x":0.4459,"y":0.88705}
+{"t":56577,"type":"pointer","x":0.39246,"y":0.87527}
+{"t":56636,"type":"pointer","x":0.4195,"y":0.89278}
+{"t":56695,"type":"pointer","x":0.4674,"y":0.90059}
+{"t":56753,"type":"pointer","x":0.4596,"y":0.89158}
+{"t":56812,"type":"pointer","x":0.38775,"y":0.80976}
+{"t":56871,"type":"pointer","x":0.41041,"y":0.85476}
+{"t":56929,"type":"pointer","x":0.41645,"y":0.86657}
+{"t":56988,"type":"pointer","x":0.39437,"y":0.86262}
+{"t":57047,"type":"pointer","x":0.38208,"y":0.80752}
+{"t":57077,"type":"click","action":"down","button":"left","x":0.38208,"y":0.80752}
+{"t":57299,"type":"click","action":"up","button":"left","x":0.38208,"y":0.80752}
+{"t":58887,"type":"text","op":"insert","source":"software","text":"draf"}
+{"t":64909,"type":"text","op":"insert","source":"software","text":"keep sho"}
+{"t":65594,"type":"text","op":"delete","source":"software","count":4}
+{"t":69107,"type":"pointer","x":0.38208,"y":0.80752}

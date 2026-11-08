@@ -1,0 +1,72 @@
+{"format":"marrow-recording-v1","session_id":"casey-tired-test-02","synthetic":true,"clock":"ms","pointer_units":"screen_fraction","duration_ms":66258,"labels":{"participant":"casey","role":"stranger","condition":"tired","style":"pointer_keyboard","split":"test","mimic_variant":null,"mimic_target":null},"generator":"marrow/synth.py","generator_seed":20261108,"license":"CC0-1.0","note":"Synthetic recording. No real person, movement or text was recorded."}
+{"t":0,"type":"pointer","x":0.5,"y":0.5}
+{"t":4725,"type":"text","op":"insert","source":"typed","text":"r"}
+{"t":5057,"type":"text","op":"insert","source":"typed","text":"e"}
+{"t":5217,"type":"text","op":"insert","source":"typed","text":"a"}
+{"t":5316,"type":"text","op":"insert","source":"typed","text":"d"}
+{"t":5453,"type":"text","op":"insert","source":"typed","text":"y"}
+{"t":5634,"type":"text","op":"insert","source":"typed","text":" "}
+{"t":5810,"type":"text","op":"insert","source":"typed","text":"p"}
+{"t":6068,"type":"text","op":"insert","source":"typed","text":"r"}
+{"t":6435,"type":"text","op":"delete","source":"typed","count":1}
+{"t":13639,"type":"text","op":"insert","source":"typed","text":"r"}
+{"t":13884,"type":"text","op":"insert","source":"typed","text":"e"}
+{"t":14330,"type":"text","op":"insert","source":"typed","text":"a"}
+{"t":14751,"type":"text","op":"insert","source":"typed","text":"d"}
+{"t":14922,"type":"text","op":"insert","source":"typed","text":" "}
+{"t":15411,"type":"text","op":"delete","source":"typed","count":1}
+{"t":15580,"type":"text","op":"insert","source":"typed","text":"l"}
+{"t":15685,"type":"text","op":"insert","source":"typed","text":"i"}
+{"t":16042,"type":"text","op":"insert","source":"typed","text":"n"}
+{"t":16490,"type":"text","op":"delete","source":"typed","count":1}
+{"t":16490,"type":"text","op":"delete","source":"typed","count":1}
+{"t":16796,"type":"text","op":"insert","source":"typed","text":"e"}
+{"t":17192,"type":"text","op":"insert","source":"typed","text":" "}
+{"t":17222,"type":"click","action":"down","button":"left","x":0.5,"y":0.5}
+{"t":17287,"type":"click","action":"up","button":"left","x":0.5,"y":0.5}
+{"t":18907,"type":"text","op":"insert","source":"typed","text":"l"}
+{"t":19042,"type":"text","op":"insert","source":"typed","text":"u"}
+{"t":19609,"type":"text","op":"insert","source":"typed","text":"n"}
+{"t":19846,"type":"text","op":"insert","source":"typed","text":"c"}
+{"t":20379,"type":"text","op":"delete","source":"typed","count":1}
+{"t":20379,"type":"text","op":"delete","source":"typed","count":1}
+{"t":20777,"type":"text","op":"insert","source":"typed","text":"h"}
+{"t":21196,"type":"text","op":"insert","source":"typed","text":" "}
+{"t":21985,"type":"text","op":"insert","source":"typed","text":"n"}
+{"t":22348,"type":"text","op":"insert","source":"typed","text":"o"}
+{"t":22638,"type":"text","op":"insert","source":"typed","text":"t"}
+{"t":23155,"type":"text","op":"insert","source":"typed","text":"e"}
+{"t":30902,"type":"text","op":"insert","source":"typed","text":"w"}
+{"t":31830,"type":"text","op":"delete","source":"typed","count":1}
+{"t":31981,"type":"text","op":"insert","source":"typed","text":"h"}
+{"t":32209,"type":"text","op":"insert","source":"typed","text":"e"}
+{"t":44565,"type":"text","op":"insert","source":"typed","text":"n"}
+{"t":44934,"type":"text","op":"insert","source":"typed","text":"o"}
+{"t":45349,"type":"text","op":"delete","source":"typed","count":1}
+{"t":45594,"type":"text","op":"insert","source":"typed","text":"t"}
+{"t":45840,"type":"text","op":"insert","source":"typed","text":"e"}
+{"t":46025,"type":"text","op":"insert","source":"typed","text":" "}
+{"t":46143,"type":"text","op":"insert","source":"typed","text":"p"}
+{"t":46815,"type":"text","op":"delete","source":"typed","count":1}
+{"t":46815,"type":"text","op":"delete","source":"typed","count":1}
+{"t":46886,"type":"text","op":"insert","source":"typed","text":"l"}
+{"t":47039,"type":"text","op":"insert","source":"typed","text":"e"}
+{"t":47264,"type":"text","op":"insert","source":"typed","text":"a"}
+{"t":47624,"type":"click","action":"down","button":"left","x":0.5,"y":0.5}
+{"t":47988,"type":"click","action":"up","button":"left","x":0.5,"y":0.5}
+{"t":52223,"type":"text","op":"insert","source":"typed","text":"n"}
+{"t":52431,"type":"text","op":"insert","source":"typed","text":"o"}
+{"t":52766,"type":"text","op":"delete","source":"typed","count":1}
+{"t":52873,"type":"text","op":"insert","source":"typed","text":"t"}
+{"t":53230,"type":"text","op":"insert","source":"typed","text":"e"}
+{"t":53602,"type":"text","op":"insert","source":"typed","text":" "}
+{"t":56610,"type":"click","action":"down","button":"left","x":0.5,"y":0.5}
+{"t":56914,"type":"click","action":"up","button":"left","x":0.5,"y":0.5}
+{"t":62350,"type":"text","op":"insert","source":"typed","text":"c"}
+{"t":62626,"type":"text","op":"insert","source":"typed","text":"o"}
+{"t":62918,"type":"text","op":"delete","source":"typed","count":1}
+{"t":63094,"type":"text","op":"insert","source":"typed","text":"p"}
+{"t":63268,"type":"text","op":"insert","source":"typed","text":"y"}
+{"t":63475,"type":"text","op":"insert","source":"typed","text":" "}
+{"t":63777,"type":"text","op":"insert","source":"typed","text":"c"}
+{"t":66258,"type":"pointer","x":0.5,"y":0.5}

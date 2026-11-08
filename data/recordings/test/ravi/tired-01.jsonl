@@ -1,0 +1,80 @@
+{"format":"marrow-recording-v1","session_id":"ravi-tired-test-01","synthetic":true,"clock":"ms","pointer_units":"screen_fraction","duration_ms":74968,"labels":{"participant":"ravi","role":"owner","condition":"tired","style":"slow_pointer_dictation","split":"test","mimic_variant":null,"mimic_target":null},"generator":"marrow/synth.py","generator_seed":20261108,"license":"CC0-1.0","note":"Synthetic recording. No real person, movement or text was recorded."}
+{"t":0,"type":"pointer","x":0.5,"y":0.5}
+{"t":499,"type":"text","op":"insert","source":"software","text":"paragraph noon this"}
+{"t":4046,"type":"text","op":"insert","source":"software","text":"lunch left right seco"}
+{"t":6363,"type":"text","op":"insert","source":"software","text":"changed check keep copy left and an"}
+{"t":9577,"type":"text","op":"insert","source":"software","text":"press t"}
+{"t":14756,"type":"pointer","x":0.5,"y":0.5}
+{"t":14812,"type":"pointer","x":0.47159,"y":0.51477}
+{"t":14868,"type":"pointer","x":0.47329,"y":0.45618}
+{"t":14924,"type":"pointer","x":0.55454,"y":0.50299}
+{"t":14980,"type":"pointer","x":0.46506,"y":0.58106}
+{"t":15036,"type":"pointer","x":0.48551,"y":0.52974}
+{"t":15092,"type":"pointer","x":0.49168,"y":0.50288}
+{"t":15148,"type":"pointer","x":0.46028,"y":0.49553}
+{"t":15204,"type":"pointer","x":0.45749,"y":0.53468}
+{"t":15261,"type":"pointer","x":0.49923,"y":0.51509}
+{"t":15317,"type":"pointer","x":0.46472,"y":0.59638}
+{"t":15373,"type":"pointer","x":0.42827,"y":0.56995}
+{"t":15429,"type":"pointer","x":0.47464,"y":0.61647}
+{"t":15485,"type":"pointer","x":0.51548,"y":0.5057}
+{"t":15541,"type":"pointer","x":0.49862,"y":0.64405}
+{"t":15597,"type":"pointer","x":0.49124,"y":0.63084}
+{"t":15653,"type":"pointer","x":0.35732,"y":0.58326}
+{"t":15709,"type":"pointer","x":0.50226,"y":0.6266}
+{"t":15765,"type":"pointer","x":0.41865,"y":0.64971}
+{"t":15822,"type":"pointer","x":0.4039,"y":0.55768}
+{"t":15878,"type":"pointer","x":0.4591,"y":0.63861}
+{"t":15934,"type":"pointer","x":0.43505,"y":0.59658}
+{"t":15990,"type":"pointer","x":0.37525,"y":0.61266}
+{"t":16046,"type":"pointer","x":0.44501,"y":0.68331}
+{"t":16102,"type":"pointer","x":0.36658,"y":0.69927}
+{"t":16158,"type":"pointer","x":0.40289,"y":0.69123}
+{"t":16214,"type":"pointer","x":0.4782,"y":0.77569}
+{"t":16270,"type":"pointer","x":0.42194,"y":0.61826}
+{"t":16326,"type":"pointer","x":0.39715,"y":0.71068}
+{"t":16383,"type":"pointer","x":0.37619,"y":0.60022}
+{"t":16439,"type":"pointer","x":0.37934,"y":0.72499}
+{"t":16495,"type":"pointer","x":0.32685,"y":0.669}
+{"t":16551,"type":"pointer","x":0.35983,"y":0.71203}
+{"t":16607,"type":"pointer","x":0.37791,"y":0.6967}
+{"t":16663,"type":"pointer","x":0.43786,"y":0.75131}
+{"t":16719,"type":"pointer","x":0.41272,"y":0.66293}
+{"t":16775,"type":"pointer","x":0.36798,"y":0.6734}
+{"t":16831,"type":"pointer","x":0.38549,"y":0.82009}
+{"t":16887,"type":"pointer","x":0.41212,"y":0.69119}
+{"t":16943,"type":"pointer","x":0.31719,"y":0.7968}
+{"t":17000,"type":"pointer","x":0.33342,"y":0.71607}
+{"t":17056,"type":"pointer","x":0.3106,"y":0.74532}
+{"t":17086,"type":"click","action":"down","button":"left","x":0.3106,"y":0.74532}
+{"t":17496,"type":"click","action":"up","button":"left","x":0.3106,"y":0.74532}
+{"t":18785,"type":"text","op":"insert","source":"software","text":"please what"}
+{"t":54504,"type":"text","op":"insert","source":"software","text":"when le"}
+{"t":61012,"type":"pointer","x":0.3106,"y":0.74532}
+{"t":61069,"type":"pointer","x":0.28201,"y":0.73816}
+{"t":61126,"type":"pointer","x":0.2514,"y":0.71083}
+{"t":61183,"type":"pointer","x":0.3235,"y":0.76681}
+{"t":61241,"type":"pointer","x":0.26786,"y":0.76985}
+{"t":61298,"type":"pointer","x":0.30858,"y":0.70602}
+{"t":61355,"type":"pointer","x":0.19617,"y":0.75018}
+{"t":61412,"type":"pointer","x":0.21677,"y":0.86948}
+{"t":61470,"type":"pointer","x":0.32545,"y":0.79462}
+{"t":61527,"type":"pointer","x":0.26592,"y":0.8366}
+{"t":61584,"type":"pointer","x":0.18138,"y":0.80114}
+{"t":61641,"type":"pointer","x":0.26565,"y":0.86022}
+{"t":61699,"type":"pointer","x":0.22857,"y":0.82015}
+{"t":61756,"type":"pointer","x":0.32208,"y":0.80196}
+{"t":61813,"type":"pointer","x":0.25123,"y":0.86008}
+{"t":61870,"type":"pointer","x":0.32858,"y":0.86278}
+{"t":61928,"type":"pointer","x":0.25783,"y":0.78408}
+{"t":61985,"type":"pointer","x":0.36234,"y":0.83063}
+{"t":62042,"type":"pointer","x":0.32891,"y":0.92544}
+{"t":62099,"type":"pointer","x":0.39632,"y":0.84143}
+{"t":62156,"type":"pointer","x":0.3489,"y":0.86496}
+{"t":62219,"type":"pointer","x":0.3123,"y":0.8383}
+{"t":62281,"type":"pointer","x":0.35256,"y":0.8719}
+{"t":62344,"type":"pointer","x":0.33398,"y":0.8129}
+{"t":62406,"type":"pointer","x":0.31141,"y":0.84507}
+{"t":62436,"type":"click","action":"down","button":"left","x":0.31141,"y":0.84507}
+{"t":62918,"type":"click","action":"up","button":"left","x":0.31141,"y":0.84507}
+{"t":74968,"type":"pointer","x":0.31141,"y":0.84507}
